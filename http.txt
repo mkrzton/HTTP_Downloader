@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <base href="https://www.iczn.org/"><!--[if lte IE 6]></base><![endif]-->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>International Commission on Zoological Nomenclature</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="generator" content="SilverStripe - http://silverstripe.org" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="favicon.ico" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,600,800,800i" />
+<link rel="stylesheet" type="text/css" href="/resources/themes/iczn/css/normalize.css?m=1543995461" />
+<link rel="stylesheet" type="text/css" href="/resources/themes/iczn/css/font.css?m=1543995461" />
+<link rel="stylesheet" type="text/css" href="/resources/themes/iczn/css/typography.css?m=1544459347" />
+<link rel="stylesheet" type="text/css" href="/resources/themes/iczn/css/main.css?m=1557757348" />
+</head>
+<body class="page_HomePage">
+    <!--[if lt IE 8]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <div class="top">
+    <div class="wrapper">
+        <div class="top-top">
+            
+                <a href="/contact-us/">Contact us</a>
+            
+                <a href="/report-abuse/">Report abuse</a>
+            
+        </div>
+        <div class="middle">
+            <div class="title"><h1>International Commission on Zoological Nomenclature</h1></div>
+            <div class="search-wrapper">
+                
+<form id="CustomSearchForm_CustomSearchForm" action="/home/CustomSearchForm/" method="get" enctype="application/x-www-form-urlencoded">
+
+	<fieldset>
+		
+		
+			<div id="CustomSearchForm_CustomSearchForm_Search_Holder" class="field text form-group--no-label">
+	
+	<div class="middleColumn">
+		<input type="text" name="Search" class="text form-group--no-label" id="CustomSearchForm_CustomSearchForm_Search" required="required" aria-required="true" placeholder="Search..." />
+	</div>
+	
+	
+	
+</div>
+
+		
+			<div id="CustomSearchForm_CustomSearchForm_Source_Holder" class="field optionset form-group--no-label">
+	
+	<div class="middleColumn">
+		<ul class="optionset form-group--no-label" id="CustomSearchForm_CustomSearchForm_Source" role="listbox">
+	
+		<li class="odd valAll">
+			<input id="CustomSearchForm_CustomSearchForm_Source_All" class="radio" name="Source" type="radio" value="All" checked />
+			<label for="CustomSearchForm_CustomSearchForm_Source_All">All</label>
+		</li>
+	
+		<li class="even valCase">
+			<input id="CustomSearchForm_CustomSearchForm_Source_Case" class="radio" name="Source" type="radio" value="Case" />
+			<label for="CustomSearchForm_CustomSearchForm_Source_Case">Case</label>
+		</li>
+	
+</ul>
+	</div>
+	
+	
+	
+</div>
+
+		
+		<div class="clear"><!-- --></div>
+	</fieldset>
+
+	
+	<div class="btn-toolbar">
+		
+			<input type="submit" name="action_customresults" value="Search" class="action" id="CustomSearchForm_CustomSearchForm_action_customresults" />
+		
+	</div>
+	
+    
+	<p id="CustomSearchForm_CustomSearchForm_error" class="message " style="margin:0; display: none"></p>
+	
+
+</form>
+
+
+            </div><!--end of search-->
+        </div>
+        <ul class="menu">
+            
+                <li><a href="/" class="active">Home</a></li>
+            
+                <li><a href="/about-the-iczn/" >About</a></li>
+            
+                <li><a href="/outreach/" >Outreach</a></li>
+            
+                <li><a href="/cases/" >Cases</a></li>
+            
+                <li><a href="/the-code/the-international-code-of-zoological-nomenclature/" >The Code</a></li>
+            
+                <li><a href="/submitting-to-the-bulletin-of-zoological-nomenclature/" >Bulletin of Zoological Nomenclature</a></li>
+            
+                <li><a href="/other-publications/" >Other Publications</a></li>
+            
+                <li><a href="/zoobank/" >ZooBank</a></li>
+            
+                <li><a href="/list-of-available-names/" >List of Available Names</a></li>
+            
+                <li><a href="/make-a-donation/" >Make a donation</a></li>
+            
+        </ul>
+    </div>
+</div>
+    <div class="home content">
+    <div class="wrapper">
+        <div class="left-col">
+            <h1>Welcome to the ICZN</h1><p><img src="/assets/6387da6021/Capture__ResizedImageWzExOCwxNjdd.PNG" alt="Capture" width="118" height="167" class="left ss-htmleditorfield-file image" title="BZN2019 cover">The International Commission on Zoological Nomenclature (ICZN) acts as adviser and arbiter for the zoological community by generating and disseminating information on the correct use of the scientific names of animals. The ICZN is responsible for producing the International Code of Zoological Nomenclature - a set of rules for the naming of animals and the resolution of nomenclatural problems.</p><h2>Quick Links</h2><ul>
+<li><a href="/cases/">Submit a case</a></li>
+<li><a href="/cases/">Comment on a case</a></li>
+<li><a href="/contact-us/">Enquiry</a></li>
+</ul><p>&nbsp;</p>
+        </div>
+        <div class="right-col">
+            <h1>News &amp; Updates</h1>
+            <div class="news-updates-list">
+                
+                    <div>
+                        <div class="image"><img src="/assets/News/991cea3c9d/iczn-logo.jpg" alt="iczn logo" />
+</div>
+                        <div class="text">
+                            
+                                <u>First contribution to the List of Available Names in Zoology –- Species- and Genus- Parts of Phylum Rotifera</u>
+                            
+                            <p>The International Commission of Zoological Nomenclature has adopted as <em>Parts</em> of the <em>List of Available Names in Zoology</em> both Candidate Parts of Phylum Rotifera, compiled by Jersabek et al. (2018a, b). The Ruling was published on the <em>Bulletin of Zoological Nomenclature </em>as Opinion 2430, on 30 April 2019 (link here, open access: ). These Parts are the first to be added to the <em>List </em>.</p><p>The ICZN would like to thank the LAN Committees as well as the international community of rotiferologists for this commendable effort.</p><p>In order to commemorate this occasion, the cover of this year's <em>Bulletin</em> features the winning photograph in a rotifer picture competition, of <em>Keratella serrulata</em> (Ehrenberg, 1838) © Michael Plewka, plingfactory.de. This is the first time the Bulletin has featured a photograph on its front cover.</p><p>PDFs of both Parts can be downloaded from archive.org (below), or from the <a href="node/40612">ICZN website.</a></p><p><a href="https://archive.org/details/LANCandidatePartGeneraRotifera">Candidate Part Phylum Rotifera, genus-group names established before 1 January 2000, compiled by Jersabek et al., 2018</a>.</p><p><a href="https://archive.org/details/LANCandidatePartSpeciesRotifera">Candidate Part Phylum Rotifera, species-group names established before 1 January 2000, compiled by Jersabek et al., 2018</a>.</p><p>&nbsp;</p>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div class="image"><img src="/assets/News/991cea3c9d/iczn-logo.jpg" alt="iczn logo" />
+</div>
+                        <div class="text">
+                            
+                                <u>The Bulletin of Zoological Nomenclature now on BioOne</u>
+                            
+                            <p><span>Wed, 2017-01-04 08:30</span><span>&nbsp;--</span>&nbsp;Bulletin of Zoological Nomenclature&nbsp;content from 2008 is now on&nbsp;<a rel="noopener" href="https://bioone.org/journals/the-bulletin-of-zoological-nomenclature/issues" target="_blank">BioOne</a>.&nbsp;<em>Bulletin</em>&nbsp;content prior to 2008 is available on the&nbsp;<a rel="noopener" href="https://www.biodiversitylibrary.org/bibliography/51603/#/summary" target="_blank">Biodiversity Heritage Library</a>.</p>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div class="image"><img src="/assets/News/991cea3c9d/iczn-logo.jpg" alt="iczn logo" />
+</div>
+                        <div class="text">
+                            
+                                <u>Vacancy for ICZN Executive Secretary</u>
+                            
+                            <p><span>Fri, 2017-08-25 01:58 --&nbsp;</span>To continue to serve the taxonomic community and to work for the stability of names in zoology, the International Commission on Zoological Nomenclature is seeking a motivated individual with the relevant expertise and skills to fill the position of its Executive Secretary.</p>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div class="image"><img src="/assets/News/991cea3c9d/iczn-logo.jpg" alt="iczn logo" />
+</div>
+                        <div class="text">
+                            
+                                <u>New ICZN Executive Secretary</u>
+                            
+                            <p><span>Wed, 2018-04-04 02:41 -- The position of ICZN secretary has been filled by Dr. Gwynne Lim. She started in February 2018.</span></p>
+                        </div>
+                    </div>
+                
+                    <div>
+                        <div class="image"><img src="/assets/News/991cea3c9d/iczn-logo.jpg" alt="iczn logo" />
+</div>
+                        <div class="text">
+                            
+                                <u>New format for manuscripts submitted to the Bulletin of Zoological Nomenclature</u>
+                            
+                            <p><span>Wed, 2018-04-04 03:18 -- A guide to the new format requirements of articles submitted to the Bulletin of Zoological Nomenclature is available. Interested parties may access it by clicking on <a href="/submitting-to-the-bulletin-of-zoological-nomenclature/submitting-to-bzn/">this link</a>.</span></p><p>&nbsp;</p>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+        <p>&nbsp;</p>
+        <div class="typography">
+            <div class="three-columns">
+                
+                    <div>
+                        <h2>Why are names important?</h2>
+                        <p>Case studies...&nbsp;<a href="/about-the-iczn/why-is-the-iczn-important/#case-studies">more&gt;&gt;</a></p><p>Scientific names: reasons and best practices... <a href="/outreach/guidelines-for-authors-and-editors/">more&gt;&gt;</a></p><p>&nbsp;</p>
+                    </div>
+                
+                    <div>
+                        <h2>Donate</h2>
+                        <p>ICZN activities depend to a crucial extent on donations from individuals, institutions, learned societies and grant-giving bodies.</p><p>Speak to us about how you can be a part of this important work (iczn@nus.edu.sg / +65 6516 8364)</p>
+                    </div>
+                
+                    <div>
+                        <h2>Latest Pages Updated</h2>
+                        <p><a href="/list-of-available-names/">List of Available Names</a> / <a href="/list-of-available-names/rotifer-lan/">Rotifer parts of the LAN</a> - updated 2019-05-06 11:49 (GMT +8)</p><p><a href="/outreach/">Outreach</a>&nbsp;/ <a href="/outreach/presentations/">Presentations</a>&nbsp; – updated 2019-03-19 11:45 (GMT +8)</p><p><a href="/submitting-to-the-bulletin-of-zoological-nomenclature/">The Bulletin of Zoological Nomenclature</a> / <a href="/submitting-to-the-bulletin-of-zoological-nomenclature/subscription-and-access/">Subscription and access</a> – updated 2019-02-25 09:28 (GMT +8)</p>
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="footer clear">
+    <div class="wrapper">
+        <p>ICZN is supported by the Lee Kong Chian Natural History Museum, National University of Singapore (Company Registration No. 200604346E).<br>ICZN is an Associate Participant to the Global Biodiversity Information Facility (GBIF) &amp; a Scientific Member of the International Union of Biological Science (IUBS).<br>Correspondence to the ICZN should be directed to the Secretary (iczn@nus.edu.sg / +65 6518 8364).</p>
+        <ul class="fmenu">
+            
+                <li><a href="/">Home</a></li>
+            
+                <li><a href="/about-the-iczn/">About</a></li>
+            
+                <li><a href="/outreach/">Outreach</a></li>
+            
+                <li><a href="/cases/">Cases</a></li>
+            
+                <li><a href="/the-code/the-international-code-of-zoological-nomenclature/">The Code</a></li>
+            
+                <li><a href="/submitting-to-the-bulletin-of-zoological-nomenclature/">Bulletin of Zoological Nomenclature</a></li>
+            
+                <li><a href="/other-publications/">Other Publications</a></li>
+            
+                <li><a href="/zoobank/">ZooBank</a></li>
+            
+                <li><a href="/list-of-available-names/">List of Available Names</a></li>
+            
+                <li><a href="/make-a-donation/">Make a donation</a></li>
+            
+        </ul>
+        <div class="copyright">
+            <a href="//creativecommons.org/licences/by/3.0/" class="cc-large" target="_blank"><img typeof="foaf:Image" src="/resources/themes/iczn/img/cc-88x31.png" alt="Creative Commons Licence" width="88px" height="31px"></a>
+            <p>Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution CC BY Licence.</p>
+        </div>
+    </div>
+</div>
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="application/javascript" src="/resources/themes/iczn/javascript/modernizr.js?m=1543995461"></script>
+<script type="application/javascript" src="/resources/themes/iczn/javascript/jquery-min.js?m=1543995461"></script>
+<script type="application/javascript" src="/resources/themes/iczn/javascript/main.js?m=1543995461"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135560656-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-135560656-1');
+</script>
+
+</body>
+</html>
